@@ -1,0 +1,15 @@
+.BodyBackground{background-color: rgb(114, 214, 247); }
+.Heading{color: rgb(40, 167, 40);
+         border:2px solid Green;
+        }
+        .addBus{
+            background-color : khaki ;
+            padding: 7px;
+            border : 1px solid green;
+            border-radius : 2px;
+        }
+.tableHeader{
+    color: Green;
+    font-size : 25px;
+    border: 1px solid green;
+}	
